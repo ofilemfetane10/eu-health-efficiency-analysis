@@ -1,4 +1,4 @@
-# 🇪🇺 EU Health Efficiency Analysis
+# EU Health Efficiency Analysis
 
 ## Project Overview
 This project analyzes European healthcare system performance by exploring the relationship between **life expectancy** and **hospital bed infrastructure** using official **Eurostat data**.
